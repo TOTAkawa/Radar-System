@@ -31,4 +31,3 @@ Para simulação no Wokwi, foram usados componentes genéricos (**A4988 + motor 
 - Ajuste corrente do ULN2003 (não precisa regulagem como A4988).
 - Ligue as bobinas do 28BYJ-48 conforme a sequência do ULN2003.
 
-## 📂 Estrutura do projeto
