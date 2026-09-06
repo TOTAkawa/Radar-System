@@ -21,7 +21,7 @@ Para simulação no Wokwi, foram usados componentes genéricos (**A4988 + motor 
 - LCD 16x2 I2C
 
 ## ▶️ Como rodar no Wokwi
-1. Abra o link da simulação: **[COLOQUE_SEU_LINK_AQUI]**
+1. Abra o link da simulação: **[https://wokwi.com/projects/452428536460495873]**
 2. Carregue o código `RadarESP32.ino`.
 3. Confira o arquivo `diagram.json` para conexões.
 
